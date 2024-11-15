@@ -38,3 +38,6 @@ out/
 
 ### Kotlin ###
 .kotlin
+
+### ENV ###
+/crawling/jobplanet/.env
